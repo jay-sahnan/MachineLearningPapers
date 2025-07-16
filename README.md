@@ -32,8 +32,7 @@ Hey 👋 I’m a founding engineer at a YC-backed startup, previously an edtech 
 
 | Icon | Paper Title | Year | Key Takeaway | Why Read |
 |------|-------------|------|--------------|----------|
-| 🥇 | **[A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications
-](https://arxiv.org/abs/2402.07927)** | 2025 | Prompt engineering enables large language models to perform new tasks without retraining. | Quickly learn about many different prompting techiniques. |
+| 🥇 | **[A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications](https://arxiv.org/abs/2402.07927)** | 2025 | Prompt engineering enables large language models to perform new tasks without retraining. | Quickly learn about many different prompting techiniques. |
 ---
 
 ## 3 · Computer Vision
