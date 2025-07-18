@@ -24,7 +24,8 @@ Hey 👋 I’m a founding engineer at a YC-backed startup, previously an edtech 
 
 | Icon | Paper Title | Year | Key Takeaway | Why Read |
 |------|-------------|------|--------------|----------|
-| 🥇 | **[Example Paper Title](https://arxiv.org/abs/XXXX.XXXXX)** | 2025 | _Key takeaway in ≤15 words_ | _Why read (≤15 words)_ |
+| 🥇 | **[Attention is All You Need](https://arxiv.org/abs/1706.03762)** | 2017 | Introduced the Transformer using self-attention instead of recurrence.
+ | Sparked the modern LLM revolution.|
 
 ---
 
